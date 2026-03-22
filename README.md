@@ -25,3 +25,5 @@ seaborn
 plotly
 
 scipy
+
+streamlit
