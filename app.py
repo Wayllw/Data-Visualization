@@ -6,7 +6,7 @@ import seaborn as sns
 # 1. Load and Pre-process Data (Logic from .ipynb)
 @st.cache_data
 def load_data():
-    df = pd.read_csv('Students Social Media Addiction.csv')
+    df = pd.read_csv('Students_Social_Media.csv')
     
     # Feature Engineering: Age Groups (Notebook Cell 5)
     bins = [15, 20, 25, 30, 35]

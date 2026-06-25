@@ -7,7 +7,7 @@
 
 You can get all the libraries using the command:
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 🌐 Python Version:

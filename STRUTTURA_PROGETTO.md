@@ -8,3 +8,11 @@
 ### Aggiornamento – 22/03/2026, 16:40:37
 - Generato/aggiornato requirements.txt dall'ambiente 'datav'.
 
+
+### Aggiornamento – 25/06/2026, 23:22:20
+- Workspace configurato per ambiente 'projetoDV' su Windows; profili terminale con messaggio unico (Python; Node; npm se presenti).
+
+
+### Aggiornamento – 25/06/2026, 23:22:41
+- Workspace configurato per ambiente 'projetoDV' su Windows; profili terminale con messaggio unico (Python; Node; npm se presenti).
+
